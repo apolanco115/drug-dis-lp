@@ -1,0 +1,22 @@
+{
+    "BipartiteNetwork": {
+        "file_path": "./bipartite_link_prediction/data/ground_truth_networks/dmnet20240920.graphml",
+        "node_type_map": {
+            "disease": 0,
+            "drug": 1
+        }
+    },
+    "TrainTestSplit": {
+        "num_trials": 50,
+        "test_size": 0.1,
+        "test_edges_file":"./bipartite_link_prediction/data/test_set/test_edges.txt",
+        "non_edges_file":"./bipartite_link_prediction/data/test_set/non_edges.txt"
+    },
+    "Predictors": {
+        "SBMPredictor": {
+        "mcmc_itr": 500,
+        "sweeps_per_itr": 10,
+        "write_preds": false
+        }
+    }
+}
