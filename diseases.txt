@@ -1,0 +1,1669 @@
+M0	peripheral vascular disease
+M1	ascarids
+M2	retinal dystrophy
+M3	hypertensive crises
+M4	life-threatening toxicity
+M5	autoimmune thyroiditis
+M6	inflammatory bowel disease
+M7	proteus infections
+M8	roundworm infections
+M9	metastatic her2-overexpressing breast cancer
+M10	abdominal aortic aneurysm
+M11	exogenous obesity
+M12	streptococcal infections
+M13	edema
+M14	corneal injury
+M15	locally advanced or metastatic cholangiocarcinoma
+M16	aplastic anemia
+M17	travelers' diarrhea
+M18	empyema
+M19	recurrent miscarriage
+M20	bronchoconstriction
+M21	serious respiratory tract infections
+M22	subarachnoid hemorrhage
+M23	prostatitis
+M24	cutaneous larva migrans
+M25	mercury poisoning
+M26	seborrheic dermatitis
+M27	blistering disorders
+M28	bladder cancer
+M29	tapeworm infections
+M30	active secondary progressive multiple sclerosis
+M31	mantle cell lymphoma
+M32	blackhead disease
+M33	human papillomavirus (hpv) type 58
+M34	nephropathic cystinosis
+M35	severe recalcitrant nodular acne
+M36	metastatic non-small cell lung cancer
+M37	philadelphia chromosome-positive (ph+) acute lymphocytic leukemia (all)
+M38	severe vision loss
+M39	helminthiasis
+M40	acute lung injury
+M41	refractory multiple myeloma
+M42	trichomoniasis
+M43	congenital sucrose-isomaltase deficiency (csid)
+M44	intestinal candidiasis
+M45	premature labor
+M46	bartonellosis
+M47	paranoid psychosis
+M48	irritable bowel syndrome
+M49	pulmonary edema
+M50	myotonic muscular dystrophy
+M51	recurrent non-squamous non-small cell lung cancer
+M52	diabetes insipidus
+M53	atrial fibrillation
+M54	chronic granulomatous disease
+M55	germ cell testicular cancer
+M56	stage d2 metastatic carcinoma of the prostate
+M57	postencephalitic parkinsonism
+M58	primary pulmonary hypertension
+M59	persistent ovarian cancer
+M60	organ transplant rejection
+M61	counteracting or reversing the anticoagulant effect of heparin
+M62	nephrotic syndrome
+M63	digitalis glycoside toxicity
+M64	congenital athetosis
+M65	lymphomatous meningitis
+M66	naeglerias
+M67	neisseria meningitidis group w-135
+M68	hemolytic anemia due to sickle cell disease
+M69	acinetobacter
+M70	chronic urticaria
+M71	multiple sclerosis
+M72	symptomatic vitreomacular adhesion
+M73	hyperlipoproteinemia type iv
+M74	exacerbations of chronic psychosis
+M75	relapsed or refractory peripheral t-cell lymphoma
+M76	prevention of renal transplant rejection
+M77	pulmonary emphysema
+M78	iritis
+M79	metastatic pancreatic cancer
+M80	fungal blepharitis
+M81	urgent surgery/invasive procedures
+M82	miscarriage
+M83	hereditary orotic aciduria
+M84	autism spectrum disorder (asd)
+M85	chronic pain
+M86	congenital factor vii deficiency
+M87	chronic immune thrombocytopenic purpura
+M88	deficiency of interleukin-1 receptor antagonist (dira)
+M89	metastatic cervical cancer
+M90	pancreatic neuroendocrine tumors
+M91	postherpetic neuralgia
+M92	generalized anxiety disorder
+M93	systemic juvenile idiopathic arthritis
+M94	convulsions
+M95	myelodysplastic/myeloproliferative diseases associated with pdgfr
+M96	human papillomavirus (hpv) type 31
+M97	autoimmune neutropenia
+M98	carbohydrate deficiency
+M99	acute hyperammonemia
+M100	psoriasis vulgaris
+M101	hyperuricemia
+M102	respiratory distress syndrome in premature infants
+M103	pancreatic insufficiency attributed to cystic fibrosis
+M104	mucopolysaccharidosis ii
+M105	deep vein thrombosis (dvt)
+M106	ovulatory dysfunction
+M107	thromboangitis obliterans
+M108	lichen planus
+M109	hyperkalemia
+M110	hypercalciuria
+M111	bloating
+M112	essential hypertension
+M113	congenital fibrinogen deficiency
+M114	helicobacter pylori gastritis
+M115	benign breast disease
+M116	fungal meningitis
+M117	long chain fatty acid oxidation disorders (lc-faods)
+M118	restless leg syndrome
+M119	chronic leg ulcers
+M120	microsatellite instability-high (msi-h) or mismatch repair deficient cancer (dmmr)
+M121	pheochromocytoma
+M122	primary peritoneal cancer
+M123	gastroparesis
+M124	episodic migraine
+M125	diffuse large b-cell non-hodgkin's lymphoma (nhl)
+M126	vitamin deficiency
+M127	retinoblastoma
+M128	mouth ulcers
+M129	kras g12c-mutated locally advanced or metastatic non-small cell lung cancer (nsclc)
+M130	solid tumors
+M131	anxiety
+M132	spinal muscular atrophy (sma)
+M133	anaemia associated with chronic kidney disease
+M134	escherichia coli infections
+M135	warfarin related intracerebral hemorrhage
+M136	fallopian tube cancer
+M137	moderate to severe pemphigus vulgaris
+M138	transient ischemic attack
+M139	gestational trophoblastic neoplasia
+M140	esophageal candidiasis
+M141	sinusoidal obstruction syndrome (sos)
+M142	epilepsy
+M143	severe primary insulin-like growth factor deficiency (igf)
+M144	hemophilia b
+M145	phenylketonuria
+M146	febrile seizures
+M147	delayed puberty
+M148	respiratory tract infections
+M149	oro-pharyngeal mucositis
+M150	muscle contractions
+M151	ichthyosis
+M152	pneumococcal pneumonia
+M153	gastroesophageal junction adenocarcinoma
+M154	acute thrombi obstructing coronary arteries
+M155	relapsed or refractory large b-cell lymphoma
+M156	bleeding episodes
+M157	cocaine-related disorders
+M158	fungal infections
+M159	fragile x syndrome
+M160	incisional wounds
+M161	discrete aldosterone-producing adrenal adenomas
+M162	meningitis caused by haemophilus influenzae
+M163	hypereosinophilic syndrome
+M164	african trypanosomiasis
+M165	bacterial skin infections
+M166	common cold
+M167	cocaine addiction
+M168	retinal degeneration
+M169	erosive or ulcerative gastroesophageal reflux disease
+M170	narcolepsy
+M171	gastric adenocarcinoma
+M172	esophageal adenocarcinoma
+M173	hepatolenticular degeneration
+M174	relapsed or refractory mantle cell lymphoma (mcl)
+M175	hypovolemia
+M176	jet lag syndrome
+M177	pharyngitis
+M178	renal angiomyolipoma (aml)
+M179	allergic conjunctivitis
+M180	infectious diarrhea
+M181	recurrent cervical cancer
+M182	locally advanced basal cell carcinoma (labcc)
+M183	proctitis
+M184	peyronie's disease
+M185	myocardial infarction
+M186	primary mediastinal large b-cell lymphoma
+M187	hereditary transthyretin-mediated amyloidosis
+M188	candida urinary system infections
+M189	nausea and vomiting associated with moderately emetogenic cancer chemotherapy
+M190	seasonal allergic conjunctivitis
+M191	plasmodium vivax malaria
+M192	dermatitis herpetiformis
+M193	ependymoma
+M194	nicotine dependence
+M195	hyperparathyroidism
+M196	reverse vitamin k antagonist activity in patients with acute major bleeds
+M197	idiopathic pulmonary fibrosis (ipf)
+M198	prevention of bone marrow transplant rejection
+M199	hypocalcemia
+M200	inflammatory dermatoses
+M201	cardiac toxicity
+M202	gastroesophageal reflux disease
+M203	erectile dysfunction
+M204	helminthiasis in cattle
+M205	acute bronchial asthma
+M206	hydatid disease
+M207	paranoia
+M208	peripheral neuropathy
+M209	postoperative nausea and vomiting
+M210	growth failure due to chronic kidney disease (ckd)
+M211	refractory or recurring external condylomata acuminata
+M212	synovial sarcoma
+M213	refractory acute leukemia
+M214	metastatic non-squamous non-small cell lung cancer
+M215	anorexia
+M216	cramps caused by gas
+M217	gastrointestinal toxicity
+M218	neuromyelitis optica spectrum disorder (nmosd)
+M219	male hypogonadism
+M220	community-acquired bacterial pneumonia
+M221	fibrocystic breast disease
+M222	acohol withdrawal
+M223	meningitis
+M224	squamous cell carcinoma
+M225	parkinsonism
+M226	systemic anaplastic large cell lymphoma
+M227	pneumococcal disease
+M228	acute bacterial skin and skin structure infection
+M229	malaria
+M230	diamond-blackfan anemia
+M231	fabry disease
+M232	hemolytic anemia
+M233	bacterial osteomyelitis
+M234	anemia
+M235	aquaporin-4 (aqp4) immunoglobulin-positive (aqp4-igg) neuromyelitis optica spectrum disorder (nmosd)
+M236	excessive bleeding results from heparin use
+M237	envenomation caused by bites from eastern coral snakes (micrurus fulvius fulvius)
+M238	uncontrolled bleeding
+M239	tuberculosis
+M240	pruritus vulvae
+M241	post-traumatic headache
+M242	fusarium solani keratitis
+M243	hormone receptor-negative (her2-) breast cancer
+M244	non-q wave myocardial infarction
+M245	infant botulism
+M246	streptococcus pneumoniae type 7f
+M247	chronic heart failure with reduced ejection fraction
+M248	metastatic head and neck squamous cell carcinoma 
+M249	erythema nodosum leprosum
+M250	idiopathic decline in mental capacity
+M251	yellow fever
+M252	prophylaxis of the disease caused by bordetella pertussis
+M253	neurogenic bladder
+M254	cervical cancer
+M255	esophagitis
+M256	rocky mountain spotted fever
+M257	excess stomach acid
+M258	helminthiasis in cats
+M259	aromatic l-amino acid decarboxylase (aadc) deficiency with a severe phenotype
+M260	neovascular (wet) age-related macular degeneration (amd)
+M261	hallucination
+M262	sjogren's syndrome
+M263	disseminated mycobacterium avium complex (mac) disease
+M264	intestinal amebiasis
+M265	unresectable or metastatic uveal melanoma
+M266	permanent atrial fibrillation
+M267	recurrent glioblastoma
+M268	papillary renal cell carcinoma
+M269	candidal vaginitis
+M270	disordered thought
+M271	metabolic acidosis
+M272	breast cancer in postmenopausal women at high risk for invasive breast cancer
+M273	recurrent herpes labialis
+M274	migraines
+M275	chronic plaque psoriasis
+M276	myelosuppression
+M277	crohn's disease
+M278	acne vulgaris
+M279	factor xiii deficiency
+M280	t-cell acute lymphocytic leukemia
+M281	herpes simplex keratitis
+M282	heavy menstrual bleeding associated with uterine fibroids
+M283	dental plaque
+M284	uveitis
+M285	insomnia
+M286	tinea corporis (ringworm)
+M287	metastatic ovarian cancer
+M288	impetigo
+M289	aborting pregnancy
+M290	ulcers
+M291	tetanus
+M292	moderate-to-severe glabellar lines
+M293	hypoglycemia
+M294	hyperprolactinemia
+M295	hypertension during pregnancy
+M296	persistent (nontransient) facial erythema of rosacea
+M297	metastatic squamous non-small cell lung cancer
+M298	triple-negative breast cancer (tnbc)
+M299	carcinoid syndrome
+M300	generalized non-psychotic anxiety
+M301	thrombotic thrombocytopenic purpura
+M302	teratocarcinoma
+M303	malignant pleural mesothelioma
+M304	left ventricular dysfunction
+M305	keratosis palmaris
+M306	atrial fibrillation with embolization
+M307	ethanol consumption
+M308	miosis
+M309	narcolepsy without cataplexy
+M310	weight loss
+M311	urea cycle enzyme deficiencies
+M312	pathological hypersecretory conditions
+M313	prophylaxis of heart transplant rejection
+M314	polycythemia vera
+M315	ccr5-tropic hiv-1 infection
+M316	macular edema
+M317	female sexual dysfunction
+M318	urticaria
+M319	hepatitis (viral c)
+M320	vitamin e deficiency
+M321	lead poisoning
+M322	pain with intercourse
+M323	chronic idiopathic constipation
+M324	sour stomach
+M325	treatment-resistant schizophrenia
+M326	pain following ocular surgery
+M327	endometrial hyperplasia
+M328	spasticity
+M329	onchocerciasis
+M330	ovarian adenocarcinoma
+M331	agitation
+M332	shigellosis
+M333	condylomata acuminata
+M334	peripheral vertigo
+M335	acne rosacea
+M336	chronic hepatitis (viral d)
+M337	social anxiety disorder
+M338	tendonitis
+M339	human papillomavirus (hpv) type 52
+M340	gastroenteritis
+M341	oligomenorrhea
+M342	huntington's disease
+M343	primary breast cancer
+M344	amyloidosis
+M345	female pelvic infections
+M346	metastatic pheochromocytoma
+M347	hyperthyroidism
+M348	chancroid
+M349	disc herniation
+M350	uterine fibroids
+M351	recurrent corneal erosions
+M352	pressure
+M353	episcleritis
+M354	citrobacter infections
+M355	obesity due to proprotein subtilisin/kexin type 1 (pcsk1) deficiency
+M356	granuloma inguinale
+M357	severe seborrheic dermatitis of the scalp
+M358	relapsed or refractory mycosis fungoides (mf)
+M359	dry eye in sjögren syndrome
+M360	peritonitis
+M361	acromegaly
+M362	severe anxiety
+M363	large b-cell lymphoma
+M364	diabetes mellitus (type 2)
+M365	solar dermatitis
+M366	active psoriatic arthritis
+M367	neisseria meningitidis group c
+M368	hepatic coma
+M369	herpes zoster
+M370	dyshidroses
+M371	post-anoxic myoclonus
+M372	locally advanced head and neck squamous cell carcinoma
+M373	tick-borne encephalitis (tbe)
+M374	acute promyelocytic leukemia
+M375	zygomycosis
+M376	rickets
+M377	nonallergic rhinitis
+M378	squamous cell carcinoma, vulva
+M379	keratoconjunctivitis sicca
+M380	varicose veins
+M381	oral mucositis
+M382	peritoneal membrane disorder
+M383	severe hemophilia a (congenital factor viii deficiency)
+M384	episodic cluster headache
+M385	complex perianal fistulas in adult patients with non-active or mildly active luminal crohn's disease
+M386	nephrolithiasis
+M387	blood preservative
+M388	dysmenorrhoea
+M389	growth hormone deficiency
+M390	porphyria
+M391	nausea
+M392	smallpox infection
+M393	ret fusion-positive thyroid cancer
+M394	postnatal depression
+M395	brain cancer
+M396	x-linked adrenoleukodystrophy
+M397	diabetic nephropathy
+M398	leukemia
+M399	visceral leishmaniasis
+M400	active duodenal ulcer
+M401	acute herpes zoster
+M402	severely active ulcerative colitis
+M403	hypofibrinogenemia
+M404	esophageal cancer
+M405	non-radiographic axial spondyloarthritis
+M406	uveal melanoma
+M407	chronic myeloid leukemia (cml)
+M408	pruritusdermatosis
+M409	bacterial endocarditis
+M410	malignant hyperthermia
+M411	heroin dependence
+M412	senile pruritus
+M413	cd30-expressing peripheral t-cell lymphomas
+M414	von willebrand disease
+M415	primary hemophagocytic lymphohistiocytosis (hlh)
+M416	acute intermittent porphyria
+M417	dementia
+M418	adenosine deaminase deficiency
+M419	spatial memory disorder
+M420	dravet syndrome
+M421	non-small cell lung cancer (nsclc)
+M422	prurigo nodularis
+M423	metastatic colorectal cancer
+M424	b-cell non-hodgkin's lymphoma
+M425	sinusitis
+M426	burns
+M427	colorectal adenocarcinoma
+M428	progressive chronic lymphocytic leukemia
+M429	hemorrhoids
+M430	metastatic hormone receptor-negative (her2-) breast cancer
+M431	acquired hemophilia a
+M432	vomiting
+M433	hormone receptor-positive (her2+) gastric adenocarcinoma
+M434	moderate to severe binge eating disorder
+M435	acute angle-closure glaucoma
+M436	grade 3b follicular lymphoma
+M437	streptococcus pneumoniae type 14
+M438	endometrial hyperplasia without atypia
+M439	lennox-gastaut syndrome
+M440	systemic candidiasis
+M441	testicular cancer
+M442	prevent pregnancy,
+M443	acute coronary syndrome
+M444	marijuana dependence
+M445	chronic heart failure
+M446	human immunodeficiency virus type 1 (hiv-1)
+M447	opioid dependence
+M448	lung adenocarcinoma
+M449	nosocomial pneumonia
+M450	rheumatoid arthritis
+M451	vasodilatory shock
+M452	hemofiltration clotting
+M453	lumbago
+M454	cellulite
+M455	tropical pulmonary eosinophilia
+M456	non-progressing b-cell non-hodgkin's lymphoma (nhl)
+M457	bone fractures
+M458	acute gouty arthritis
+M459	skin cancer
+M460	active enthesitis-related arthritis
+M461	thrombotic stroke
+M462	eye irritations
+M463	brain edema
+M464	urothelial carcinoma
+M465	swelling due to pregnancy
+M466	focal segmental glomerulosclerosis
+M467	sepsis
+M468	malignant melanoma
+M469	extensive-stage small cell lung cancer (es-sclc)
+M470	osteomalacia
+M471	arthritis
+M472	acute bacterial exacerbation of chronic bronchitis
+M473	secondary hypothyroidism
+M474	leishmaniasis
+M475	giant follicular lymphoma
+M476	kaposi's sarcoma
+M477	mucopolysaccharidosis vii
+M478	growth failure due to idiopathic short stature (iss)
+M479	sickle cell disease
+M480	cholecystitis
+M481	growth failure due to growth hormone deficiency (ghd)
+M482	amyotrophic lateral sclerosis (als)
+M483	scorpion envenomation
+M484	acute evolving transmural myocardial infarction
+M485	human papillomavirus (hpv) type 33
+M486	cryopyrin-associated periodic syndromes (caps)
+M487	vulvar dystrophy
+M488	thrombocytopenia
+M489	candidemia
+M490	hbeag positive chronic hepatitis b infection
+M491	lymphatic filariasis
+M492	protein catabolism
+M493	anaphylaxis to neuromuscular blocking agents
+M494	aggressive systemic mastocytosis
+M495	cutaneous fungal infections
+M496	major depressive disorder
+M497	metastatic merkel cell carcinoma (mcc)
+M498	ifosfamide-induced hemorrhagic cystitis
+M499	pain associated with endometriosis
+M500	rhabdomyosarcoma
+M501	progesterone deficiency
+M502	homozygous familial sitosterolemia
+M503	atherosclerotic cardiovascular disease
+M504	dental infections
+M505	legionella pneumophila
+M506	protozoal infections
+M507	anaphylaxis
+M508	total blindness
+M509	vitamin b2 deficiency
+M510	desensitization of highly sensitized adult kidney transplant patients
+M511	irritable bowel syndrome with diarrhea
+M512	gingivitis
+M513	k-ras wild-type metastatic colorectal cancer
+M514	trypanosomiasis
+M515	vomiting associated with radiotherapy
+M516	systemic lupus erythematosus (sle)
+M517	mature b-cell acute leukemia (b-al)
+M518	heart block
+M519	differentiated thyroid cancer
+M520	cold urticaria
+M521	congestive heart failure
+M522	female infertility
+M523	secondary adrenocortical insufficiency
+M524	fungal skin infections
+M525	gastrointestinal bleeding
+M526	streptococcus pneumoniae type 19a
+M527	homozygous cystinuria
+M528	adult-onset growth hormone deficiency (ao-ghd)
+M529	hemorrhage of the uterus following delivery of the placenta
+M530	hairy cell leukemia
+M531	chronic renal failure
+M532	smooth muscle spasms
+M533	locally advanced or metastatic non-small cell lung cancer
+M534	bacterial meningitis
+M535	acute and chronic pain
+M536	superficial punctate keratitis
+M537	vitiligo
+M538	homocystinuria
+M539	skin and skin structure infections
+M540	myoclonus
+M541	rickettsial infections
+M542	renal osteodystrophy
+M543	disuse osteoporosis
+M544	venous thromboembolism
+M545	cryptococcus pulmonary infections
+M546	mixed dyslipidemia
+M547	urethritis
+M548	traumatic brain injuries
+M549	benzodiazepine overdose
+M550	enteritis
+M551	cytomegalovirus retinitis in patients with aids
+M552	pneumonia
+M553	pulmonary tuberculosis
+M554	bipolar depression
+M555	streptococcus pneumoniae type 23f
+M556	diabetic macular edema
+M557	hypertrophic cardiomyopathy
+M558	botulism
+M559	genotype 4 chronic hepatitis c virus (hcv) infection without cirrhosis
+M560	high-grade resectable non-metastatic osteosarcoma
+M561	chronic bacterial prostatitis
+M562	pancreatitis
+M563	asthma
+M564	bone and joint infections
+M565	atopic dermatitis
+M566	calciphylaxis
+M567	non-hodgkin's lymphoma (nhl)
+M568	hbeag negative chronic hepatitis b infection
+M569	acute respiratory distress syndrome (ards)
+M570	venous insufficiency
+M571	diphyllobothriasis
+M572	nasal congestion
+M573	transfusional hemosiderosis
+M574	bacterial infections
+M575	philadelphia chromosome-positive (ph+) chronic myeloid leukemia (cml)
+M576	vestibular vertigo
+M577	postoperative inflammation
+M578	acute pyelonephritis
+M579	postabortion hemorrhage
+M580	liver transplant surgery
+M581	relapsed philadelphia chromosome-negative (ph-) acute lymphocytic leukemia (all)
+M582	acquired immune deficiency syndrome (aids)
+M583	homozygous familial hypercholesterolemia
+M584	glioblastoma multiforme (gbm)
+M585	neisseria meningitidis group a
+M586	typhoid fever
+M587	psychomotor epileptic seizures
+M588	parkinson's disease
+M589	paroxysmal nocturnal hemoglobinuria (pnh)
+M590	cough
+M591	vascular dementia
+M592	tenosynovial giant cell tumor
+M593	wilms' tumor
+M594	headaches
+M595	dermatitis
+M596	advanced hepatocellular carcinoma
+M597	genotype 1 chronic hepatitis c virus (hcv) infection
+M598	allergic states
+M599	streptococcus pneumoniae type 19f
+M600	acute pharyngitis
+M601	granulomatosis with polyangiitis (gpa)
+M602	osteoarthritis of knee
+M603	exercise-induced bronchoconstriction
+M604	microscopic polyangiitis (mpa)
+M605	adrenocortical carcinoma
+M606	locally advanced, unresectable or metastatic pancreatic cancer
+M607	burkitt-like lymphoma (bll)
+M608	hypercalcemia in patients with parathyroid carcinoma
+M609	multiple myeloma
+M610	primary cutaneous anaplastic large cell lymphoma
+M611	uncomplicated gonorrhea
+M612	soft tissue infections
+M613	psychosis
+M614	staphylococcal infections
+M615	emphysema
+M616	acute hepatic porphyria
+M617	prophylaxis of kidney transplant rejection
+M618	onychomycosis
+M619	head and neck squamous cell carcinoma
+M620	recurrent ovarian cancer
+M621	thrombosis
+M622	premenstrual dysphoric disorder
+M623	intra-abdominal abscesses
+M624	nonvalvular atrial fibrillation
+M625	bursitis
+M626	leber's hereditary optic neuropathy
+M627	cytokine release syndrome
+M628	streptococcus pneumoniae type 6b
+M629	painful muscular contractions
+M630	eye redness
+M631	malnutrition
+M632	gonorrhea
+M633	stasis dermatitis
+M634	liver cirrhosis
+M635	glucocorticoid-induced osteoporosis
+M636	severe insulin resistance
+M637	urinary incontinence
+M638	hemophilic arthropathy
+M639	vasomotor symptoms
+M640	chronic hepatitis c virus genotype 3 infection
+M641	hyperlipoproteinemia type iib
+M642	duodenal ulcers
+M643	alcohol withdrawal syndrome
+M644	primary hyperoxaluria type 1 (ph1)
+M645	leber's congenital amaurosis
+M646	obesity due to pro-opiomelanocortin (pomc) deficiency
+M647	complicated urinary tract infections
+M648	second-degree burns
+M649	metastatic castration-resistant prostate cancer
+M650	human immunodeficiency virus (hiv)
+M651	afibrinogenemia
+M652	polyarticular juvenile idiopathic arthritis
+M653	tinea cruris (jock itch)
+M654	diphtheria
+M655	mycoplasma pneumoniae
+M656	pancreatic cancer
+M657	otitis externa
+M658	obstructive pulmonary disease (opd)
+M659	severe asthma
+M660	spasm
+M661	ntrk gene fusion-positive solid tumors
+M662	acute lymphocytic leukemia (all)
+M663	respiratory syncytial virus (rsv) respiratory disease
+M664	diabetic gastroparesis
+M665	pseudomonas aeruginosa infections
+M666	female pelvis infections
+M667	cataract
+M668	skin lesions
+M669	prolactin-induced amenorrhea
+M670	menorrhagia
+M671	amenorrhea
+M672	dental pulp disorder
+M673	gouty arthritis
+M674	meningococcal infections
+M675	shock
+M676	chronic thromboembolic pulmonary hypertension
+M677	disseminated mycobacterial infections
+M678	symptomatic sarcoidosis
+M679	schistosomiasis
+M680	occlusion of arteriovenous cannulae
+M681	peripheral vessel disease
+M682	benign stomach ulcer
+M683	chagas disease
+M684	colorectal adenoma
+M685	congenital neutropenia
+M686	hepatorenal syndrome type 1 (hrs 1)
+M687	ventricular arrhythmias associated with digitalis toxicity
+M688	pyrogenic wounds
+M689	hepatic injury
+M690	hiv associated adipose redistribution syndrome
+M691	scabies
+M692	mycosis fungoides (mf)
+M693	human papillomavirus type-11 (hpv-11)
+M694	recurrent thyroid cancer
+M695	central nervous system infections
+M696	kraurosis vulvae
+M697	unstable angina
+M698	hypothyroidism
+M699	mycoplasma strains
+M700	cystinuria
+M701	posterior uveitis
+M702	bronchospasm
+M703	goitrogenesis
+M704	advanced gastric adenocarcinoma
+M705	hypoparathyroidism
+M706	recurrent mucocutaneous herpes simplex infections
+M707	hyperplasia
+M708	involutional depression
+M709	epithelial keratitis
+M710	epstein-barr virus-positive diffuse large b-cell lymphoma (ebv+ dlbcl) not otherwise specified (nos)
+M711	sunburn
+M712	progeria
+M713	haemophilus influenzae type b
+M714	hepatitis (viral b)
+M715	chronic sinusitis
+M716	refractory testicular cancer
+M717	polycystic ovary syndrome
+M718	inflammatory lesions of non-nodular moderate to severe acne vulgaris
+M719	molybdenum cofactor deficiency (mocd) type a
+M720	systemic primary carnitine deficiency
+M721	inflammation
+M722	septic arthritis
+M723	cryptosporidiosis
+M724	whipworm infections
+M725	growth failure due to shox deficiency
+M726	digitoxin overdose
+M727	bronchopulmonary dysplasia
+M728	muscular dystrophy
+M729	absence epilepsy
+M730	neurologic dysfunction
+M731	supraventricular tachycardia
+M732	hiatus hernia
+M733	gastritis
+M734	recurrent vulvovaginal candidiasis
+M735	hypertriglyceridemia
+M736	recurring ventricular fibrillation
+M737	histiocytic lymphoma
+M738	non-squamous non-small cell lung cancer
+M739	arteriosclerosis
+M740	hereditary tyrosinemia type 1
+M741	familial mediterranean fever
+M742	delusion
+M743	unresectable melanoma
+M744	congenital or acquired generalized lipodystrophy
+M745	cholestatic pruritus
+M746	relapsed or refractory diffuse large b-cell lymphoma (dlbcl)
+M747	lymphosarcoma
+M748	actinomycosis
+M749	sneezing
+M750	relapsed or refractory multiple myeloma
+M751	staphylococcal dermatitis
+M752	alzheimer's disease
+M753	obstructive sleep apnea
+M754	typhus fever
+M755	anaplastic large t-cell lymphoma
+M756	dysbetalipoproteinemia
+M757	listeriosis
+M758	bronchitis
+M759	chronic gouty arthritis
+M760	bipolar i disorder
+M761	subfoveal choroidal neovascularization
+M762	coccidioidomycosis
+M763	patent ductus arteriosus
+M764	EGFR-expressing metastatic colorectal carcinoma
+M765	acute cardiac ischemic events
+M766	liver cancer
+M767	residual thyroid cancer
+M768	facial acne vulgaris
+M769	idiopathic parkinson's disease
+M770	simple (nontoxic) goiter
+M771	hormone refractory metastatic prostate cancer
+M772	backache
+M773	chronic hepatitis c virus (genotype 4) infection
+M774	neurotic or reactive depressive disorders
+M775	alveolar soft part sarcoma (asps)
+M776	mumps
+M777	status epilepticus
+M778	grand mal seizures
+M779	functional hemorrhages and menorrhagia of fibroids
+M780	glanzmann's thrombasthenia
+M781	inflammatory breast cancer
+M782	adams-stokes syndrome
+M783	onychocryptosis
+M784	contact dermatitis
+M785	bacterial tonsillitis
+M786	chronic dermal ulcers
+M787	multicentric castleman's disease
+M788	obesity
+M789	staphylococcal meningitis
+M790	human papillomavirus type-6 (hpv-6)
+M791	childhood-onset growth hormone deficiency (co-ghd)
+M792	anti-neutrophil cytoplasmic antibody-associated vasculitis
+M793	exercise-induced bronchospasm
+M794	psychotic depression
+M795	postpartum hemorrhage
+M796	acute myocardial infarction
+M797	active rheumatoid arthritis
+M798	acute renal failure
+M799	anaerobic bacterial infections
+M800	obesity due to leptin receptor (lepr) deficiency
+M801	chronic hyperammonemia
+M802	overactive bladder
+M803	generalized myasthenia gravis
+M804	hypogonadotropic hypogonadism
+M805	chromium deficiency
+M806	head and neck cancer
+M807	prostate cancer with bone metastasis
+M808	lymphoblastic lymphoma
+M809	arsenic poisoning
+M810	obsessive-compulsive disorder
+M811	astrocytoma
+M812	streptococcus pneumoniae type 8
+M813	perinatal/infantile hypophosphatasia
+M814	metastatic nonseminomatous testicular cancer
+M815	preterm birth
+M816	acute, uncomplicated ano-rectal infections in women
+M817	hypotension
+M818	prostate adenocarcinoma
+M819	prevention of pregnancy
+M820	neuropathic pain associated with postherpetic neuralgia
+M821	pulmonary arterial hypertension
+M822	bacterial or protozoal enteritis
+M823	raynaud's disease
+M824	postoperative pain
+M825	acute asthma attack
+M826	chronic hepatitis (viral c)
+M827	north american pit viper envenomation
+M828	vaginal atrophy
+M829	primary adrenocortical insufficiency
+M830	bone cancer
+M831	prostate-specific membrane antigen (psma)-positive metastatic castration-resistant prostate cancer (mcrpc)
+M832	obesity due to bardet-biedl syndrome
+M833	reactive rheumatoid arthritis
+M834	genital herpes
+M835	campylobacter fetus infections
+M836	bacterial sinusitis
+M837	small lymphocytic lymphoma (sll)
+M838	endocarditis
+M839	breast cancer
+M840	pseudopregnancy
+M841	myelodysplastic syndromes (mds)
+M842	biliary tract diseases
+M843	light chain amyloidosis
+M844	acute non-lymphocytic leukemia
+M845	depression associated with organic disease
+M846	tinea manuum
+M847	gastric cancer
+M848	polyarticular idiopathic arthritis
+M849	neurodermatitis
+M850	primary progressive dementia
+M851	respiratory syncytial virus (rsv)
+M852	pigmented villonodular synovitis
+M853	primary pheochromocytoma
+M854	schizophrenia
+M855	tularemia
+M856	tinea pedis (athlete's foot)
+M857	perennial allergic rhinitis
+M858	pelvic infections
+M859	friedreich ataxia
+M860	thyroiod cancer
+M861	tumor mutational burden-high (tmb-h) cancer
+M862	unresectable non-squamous non-small cell lung cancer
+M863	occlusive peripheral vascular disease
+M864	renal cell carcinoma (rcc)
+M865	irregular sleep-wake rhythm disorder
+M866	clinically isolated syndrome
+M867	eosinophilic granulomatosis with polyangiitis (egpa)
+M868	sciatica
+M869	metastatic gastric adenocarcinoma
+M870	allergic rhinitis
+M871	liver disease, alcoholic
+M872	prostate cancer
+M873	iron deficiency
+M874	myelofibrosis
+M875	gastroesophageal reflux
+M876	hymenolepiasis
+M877	megaloblastic anemia
+M878	secondary skin infections
+M879	oral lichen planus
+M880	vaginitis caused by gardnerella vaginalis
+M881	candida infections
+M882	inhalational anthrax
+M883	stroke
+M884	vaginitis
+M885	thyrotoxicosis
+M886	occlusive thromboemboli in peripheral arteries and grafts
+M887	cytomegalovirus infectious disease in kidney, heart, and kidney-pancreas transplantation
+M888	uterine cervical cancer
+M889	erosive esophagitis
+M890	streptococcus pneumoniae type 1
+M891	hiv-associated lipodystrophy
+M892	cholera
+M893	cyanide poisoning
+M894	myasthenia gravis
+M895	opioid overdose
+M896	barrett's esophagus
+M897	gallstones
+M898	recurrent pericarditis (rp)
+M899	attention deficit hyperactivity disorder (adhd)
+M900	pediculosis
+M901	neonatal-onset multisystem inflammatory disease (nomid)
+M902	severe infections caused by susceptible strains of methicillin-resistant staphylococci
+M903	neurogenic orthostatic hypotension
+M904	upper respiratory tract infections
+M905	orthostatic hypotension
+M906	histoplasmosis
+M907	arteriosclerosis obliterans
+M908	melasma of the face
+M909	neurocysticercosis
+M910	connective tissue diseases
+M911	pernicious anemia
+M912	acute diarrhea
+M913	alcoholism
+M914	oral cancer
+M915	endogenous anterior uveitis
+M916	cystitis
+M917	mucormycosis
+M918	fluorouracil overdose
+M919	respiratory depression
+M920	acquired thrombotic thrombocytopenic purpura
+M921	human papillomavirus type-18 (hpv-18)
+M922	anal fissure
+M923	neuropathic pain
+M924	metastatic testicular cancer
+M925	pharmacologically induced mydriasis
+M926	gestational diabetes mellitus
+M927	thalassemia syndrome
+M928	viral rhinitis
+M929	plague
+M930	hyperlipidemia
+M931	epithelial ovarian cancer
+M932	insulin hypoglycemia
+M933	arteriosclerotic parkinsonism
+M934	pulmonary hypertension
+M935	febrile neutropenia
+M936	acute pulmonary emboli
+M937	tumors
+M938	diabetes mellitus
+M939	edema associated with congestive heart failure
+M940	acute malaria
+M941	strains and sprains
+M942	chronic renal insufficiency
+M943	constipation-predominant irritable bowel syndrome (ibs-c)
+M944	skeletal muscle relaxation
+M945	alopecia areata
+M946	gestational choriocarcinoma
+M947	dry eye syndrome
+M948	gold poisoning
+M949	ventricular tachycardia
+M950	septic shock
+M951	nasolabial fold wrinkles
+M952	staphylococcus aureus bloodstream infections
+M953	juvenile onset hypophosphatasia
+M954	ventricular fibrillation
+M955	osteoarthritis
+M956	membranous glomerulonephritis
+M957	relapsed or refractory b-cell non-hodgkin's lymphoma (nhl)
+M958	rhinitis
+M959	duchenne muscular dystrophy (dmd)
+M960	hemorrhage
+M961	malignant hypercalcemia
+M962	ocular hypertension
+M963	cushing's disease
+M964	recurrent chronic lymphocytic leukemia
+M965	follicular lymphoma
+M966	lepromatous leprosy
+M967	accommodative esotropia
+M968	severe active rheumatoid arthritis
+M969	systemic inflammatory response syndrome
+M970	breast adenocarcinoma
+M971	blepharitis
+M972	metastatic or unresectable cutaneous melanoma
+M973	bacterial pharyngitis
+M974	tension headaches
+M975	staphylococcus epidermidis
+M976	ascaris lumbricoides infection
+M977	salt-losing adrenogenital syndrome
+M978	chronic stable angina pectoris
+M979	infertility
+M980	familial cold auto-inflammatory syndrome (fcas)
+M981	lymphangioleiomyomatosis
+M982	anaplastic astrocytoma
+M983	candida endocarditis
+M984	low backache
+M985	chronic atrial fibrillation
+M986	tardive dyskinesia
+M987	endometriosis
+M988	dyslipidemia
+M989	bronchiolitis
+M990	ocular infections
+M991	streptococcus pneumoniae type 15b
+M992	mucopolysaccharidosis iv a
+M993	tourette's syndrome
+M994	gastrointestinal stromal tumor
+M995	acute graft versus host disease
+M996	scapulohumeral periarthritis
+M997	gaucher's disease type 3
+M998	psoriasis
+M999	cd30-expressing mycosis fungoides
+M1000	drug-induced extrapyramidal disorders
+M1001	achondroplasia
+M1002	beta-thalassemia
+M1003	streptococcus pneumoniae type 22f
+M1004	fascioliasis
+M1005	lymphoma
+M1006	depression
+M1007	braf v600e-mutant metastatic colorectal cancer
+M1008	ischemic stroke
+M1009	seasonal allergic rhinitis
+M1010	chronic psychosis
+M1011	vitamin b12 deficiency
+M1012	prevent premature ovulation
+M1013	acute sinusitis
+M1014	urinary tract infections (cystitis)
+M1015	central nervous system toxicity
+M1016	amebiasis
+M1017	coagulopathy
+M1018	subacute sclerosing panencephalitis
+M1019	lactose intolerance
+M1020	steroid dependent nephrotic syndrome
+M1021	primary dysmenorrhea
+M1022	hidradenitis suppurativa
+M1023	klebsiella-enterobacter-serratia infections
+M1024	rh-incompatible pregnancy
+M1025	bronchospasm occurring during anesthesia
+M1026	agitation associated with schizophrenia or bipolar mania
+M1027	diabetes mellitus (type 1)
+M1028	nephropathy
+M1029	plaque psoriasis
+M1030	resectable non-small cell lung cancer
+M1031	postoperative inflammation following ocular surgery
+M1032	esophageal squamous cell carcinoma
+M1033	pustular psoriasis
+M1034	muscle pain
+M1035	skin ulcers
+M1036	breast pain
+M1037	cerebrovascular insufficiency
+M1038	diabetic neuropathy
+M1039	growth hormone gene deletion
+M1040	acute mountain sickness
+M1041	vasomotor rhinitis
+M1042	pain after injury
+M1043	aids-related kaposi's sarcoma
+M1044	heterotopic ossification
+M1045	retinopathy
+M1046	chronic constipation
+M1047	acute pain
+M1048	relapsed or refractory chronic lymphocytic leukemia
+M1049	degenerative disc disease
+M1050	cholangiocarcinoma
+M1051	actinic keratosis
+M1052	acute exacerbations of multiple sclerosis
+M1053	fusarium infections
+M1054	herpes labialis
+M1055	cystic fibrosis (cf) in patients homozygous for the f508del mutation in the cftr gene
+M1056	scedosporium apiospermum infection
+M1057	diabetic retinopathy (dr)
+M1058	severe aplastic anemia
+M1059	medulloblastoma
+M1060	hookworm infections
+M1061	arrhythmia
+M1062	streptococcus pneumoniae type 33f
+M1063	chronic nonagitated schizophrenia
+M1064	pemphigus
+M1065	wound infection
+M1066	conjunctivitis
+M1067	central nervous system neoplasms
+M1068	osteosarcoma
+M1069	open-angle glaucoma
+M1070	anogenital pruritus
+M1071	primary hypercholesterolemia
+M1072	influenza disease caused by influenza virus subtypes a and types b
+M1073	staphylococcal skin infections
+M1074	partial urethral obstruction
+M1075	acute migraine
+M1076	pneumocystis jiroveci pneumonia
+M1077	acute attacks of hereditary angioedema (hae) due to c1 esterase inhibitor deficiency
+M1078	ewing's sarcoma
+M1079	hypertrichosis
+M1080	cutaneous candidiasis
+M1081	bronchospasm associated with chronic obstructive pulmonary disease
+M1082	chronic lymphocytic leukemia
+M1083	mastocytosis
+M1084	asymptomatic left ventricular dysfunction
+M1085	insulin-like growth factor deficiency (igfd)
+M1086	immunoglobulin a nephropathy (igan)
+M1087	idiopathic neutropenia
+M1088	vancomycin-resistant enterococcus faecium infections
+M1089	hepatic encephalopathy
+M1090	burkitt's lymphoma
+M1091	vasospastic angina
+M1092	acute psychosis
+M1093	pinworm infections
+M1094	plasmodium falciparum malaria
+M1095	partial-onset seizures
+M1096	thiamine deficiency
+M1097	coronary revascularization
+M1098	chronic hepatitis (viral b)
+M1099	visceral spasms
+M1100	postmenopausal symptoms
+M1101	delayed male puberty
+M1102	staphylococcal endocarditis
+M1103	blastic plasmacytoid dendritic cell neoplasm (bpdcn)
+M1104	neutropenia
+M1105	bacterial respiratory tract infections
+M1106	obstetric labor complication
+M1107	severe congenital protein c deficiency
+M1108	growth failure due to being born small for gestational age (sga)
+M1109	osteoporosis
+M1110	atypical hemolytic uremic syndrome
+M1111	menopausal syndrome
+M1112	acid sphingomyelinase deficiency (asmd)
+M1113	streptococcus pneumoniae type 12f
+M1114	heterozygous familial hypercholesterolemia
+M1115	acute hypotensive state
+M1116	premenstrual syndrome
+M1117	recurrent or metastatic head and neck squamous cell carcinoma
+M1118	precocious puberty
+M1119	cyclitis
+M1120	growth failure
+M1121	complications of leptin deficiency
+M1122	fibromyalgia
+M1123	hernia
+M1124	metastatic basal cell carcinoma (mbcc)
+M1125	severe erythema multiforme (stevens-johnson syndrome)
+M1126	large roundworm infections
+M1127	chronic open-angle glaucoma
+M1128	bacterial blepharitis
+M1129	cutaneous squamous cell carcinoma (cscc)
+M1130	von willebrand's disease (type i)
+M1131	angina pectoris
+M1132	paroxysmal atrial fibrillation
+M1133	lupus nephritis
+M1134	herpes simplex
+M1135	juvenile idiopathic arthritis
+M1136	refractory anaplastic astrocytoma
+M1137	interstitial cystitis
+M1138	unresectable hepatocellular carcinoma (hcc)
+M1139	hyperhidrosis
+M1140	locally advanced non-squamous non-small cell lung cancer
+M1141	psoriatic arthritis
+M1142	vincent's gingivitis
+M1143	refractory bleeding after cardiac surgery
+M1144	thyroid gland autonomy
+M1145	articular cartilage defects of knee
+M1146	metastatic melanoma
+M1147	nausea associated with gastroenteritis
+M1148	cervical dilatation
+M1149	galactorrhea
+M1150	otitis
+M1151	metastatic breast cancer
+M1152	ichthyosis vulgaris
+M1153	uterine hemorrhage
+M1154	pain in osteoarthritis
+M1155	mydriasis
+M1156	cardiac arrest
+M1157	neisseria meningitidis group y
+M1158	constipation
+M1159	mild to moderate dementia of the alzheimer's type
+M1160	exposure keratitis
+M1161	streptococcus pneumoniae type 9v
+M1162	agitation and restlessness in the elderly
+M1163	moderately active ulcerative colitis
+M1164	restoration of patency to intravenous catheters
+M1165	sexual dysfunction
+M1166	subependymal giant cell astrocytoma (sega)
+M1167	meningococcemia
+M1168	basal cell carcinoma
+M1169	neuralgia
+M1170	psoriatic erythroderma
+M1171	selenium deficiency
+M1172	fever
+M1173	familial hypercholesterolemia
+M1174	idiopathic achalasia
+M1175	oropharyngeal candidiasis
+M1176	small cell lung cancer (sclc)
+M1177	hiv associated diarrhea
+M1178	retinopathy of prematurity (rop)
+M1179	primary progressive multiple sclerosis
+M1180	acute bacterial otitis media
+M1181	essential tremor
+M1182	alk-positive anaplastic large t-cell lymphoma
+M1183	streptococcus pneumoniae type 6a
+M1184	hyponatremia
+M1185	tuberculous meningitis
+M1186	advanced gastrointestinal stromal tumor
+M1187	merkel cell carcinoma (mcc)
+M1188	trichinosis
+M1189	minor cuts
+M1190	traumatic wounds
+M1191	alk-positive advanced non-small cell lung cancer
+M1192	human papillomavirus type-16 (hpv-16)
+M1193	locally advanced or metastatic cutaneous squamous cell carcinoma (mcscc)
+M1194	hay fever
+M1195	locally advanced or unresectable soft tissue sarcoma
+M1196	plasminogen deficiency type 1 (hypoplasminogenemia)
+M1197	cytomegalovirus retinitis
+M1198	late-onset pompe disease
+M1199	purpura fulminans
+M1200	adenosine deaminase severe combined immune deficiency (ada-scid)
+M1201	advanced breast cancer in postmenopausal women
+M1202	post-operative deep vein thrombosis (dvt)
+M1203	steroid-resistant nephrotic syndrome
+M1204	metastatic malignant tumor
+M1205	cystic fibrosis
+M1206	glaucoma
+M1207	metastatic triple-negative breast cancer (tnbc)
+M1208	neuroblastoma
+M1209	intracoronary emboli
+M1210	postoperative thrombosis
+M1211	acute decompensated heart failure
+M1212	severe hypoglycemia
+M1213	relapsed or refractory acute myeloid leukemia
+M1214	bulimia nervosa
+M1215	chronic alcoholism
+M1216	central cranial diabetes insipidus
+M1217	vomiting induced by cytotoxic therapy
+M1218	severe pain
+M1219	infections of mastoidectomy and fenestration cavities
+M1220	b-cell precursor acute lymphocytic leukemia (all)
+M1221	persistent pulmonary hypertension of the newborn
+M1222	sporotrichosis
+M1223	noninsulin-dependent diabetes mellitus
+M1224	alk-positive metastatic non-small cell lung cancer
+M1225	colorectal cancer
+M1226	diabetic peripheral neuropathy
+M1227	acute leukemia
+M1228	oral warts arising from hiv infection
+M1229	chronic asthmatic bronchitis
+M1230	myositis
+M1231	treatment-resistant depression
+M1232	pelvis infections
+M1233	lower respiratory tract infections
+M1234	transient ischemic attacks
+M1235	metastatic hormone receptor-positive (her2+) breast cancer
+M1236	hypoalbuminemia
+M1237	hepatitis (viral a)
+M1238	delayed nausea and vomiting associated with initial and repeat courses of emetogenic cancer chemotherapy
+M1239	chronic anxiety
+M1240	complicated intra-abdominal infections
+M1241	intra-abdominal infections
+M1242	petit mal seizures
+M1243	hormone-refractory prostate cancer
+M1244	menopausal symptoms
+M1245	hypercholesterolemia
+M1246	dry eyes
+M1247	systemic sclerosis-associated interstitial lung disease
+M1248	ovarian cancer
+M1249	zollinger-ellison syndrome
+M1250	noncompensatory sinus tachycardia
+M1251	refractory childhood acute lymphocytic leukemia
+M1252	age-related memory impairment
+M1253	tinea versicolor
+M1254	partial seizures
+M1255	seizures
+M1256	fusospirochetosis
+M1257	joint pain
+M1258	panuveitis
+M1259	papillary urothelial cell carcinoma
+M1260	early hormone receptor-positive (her2+) breast cancer
+M1261	drug-induced extrapyramidal reactions
+M1262	cholestasis
+M1263	cluster headache
+M1264	pancreatic insufficiency
+M1265	uncomplicated urinary tract infections
+M1266	ulcerative colitis
+M1267	female breast cancer
+M1268	uncomplicated allergic skin manifestations of angioedema
+M1269	nasopharyngeal carcinoma
+M1270	chronic urea-splitting urinary infection
+M1271	pneumocystis carinii pneumonia
+M1272	minimal change nephropathy
+M1273	hyperbilirubinemia
+M1274	acute intestinal amebiasis
+M1275	moderate hypertension
+M1276	alopecia
+M1277	hypoestrogenism
+M1278	opioid-induced constipation (oic)
+M1279	chronic idiopathic urticaria
+M1280	chronic transplant rejection
+M1281	iron deficiency anemia
+M1282	distal ulcerative colitis
+M1283	organophosphate poisoning
+M1284	clostridium difficile infections
+M1285	tuberous sclerosis complex
+M1286	cerebral adrenoleukodystrophy (cald)
+M1287	increase bone mass in men with osteoporosis
+M1288	mild to moderate dementia associated with parkinson's disease
+M1289	uterine atony
+M1290	debilitating anxiety
+M1291	dysthymic disorder
+M1292	vertigo
+M1293	food allergy
+M1294	exfoliative dermatitis
+M1295	influenza
+M1296	streptococcus pneumoniae type 10a
+M1297	prevent pregnancy
+M1298	metastatic renal cell carcinoma (rcc)
+M1299	short bowel syndrome
+M1300	female hypogonadism
+M1301	rho (d)-negative individuals transfused with rh0(d)-positive red blood cells (rbcs) or blood components containing rh0(d)-positive rbcs
+M1302	postinfectious cough
+M1303	hormone refractory prostate cancer
+M1304	acutely decompensated heart failure
+M1305	chronic obstructive pulmonary disease (copd)
+M1306	acute ischemic stroke (ais)
+M1307	bacterial vaginosis
+M1308	cutaneous t-cell lymphoma
+M1309	perioperative hemorrhage
+M1310	peripheral t-cell lymphoma
+M1311	multinodular goiter
+M1312	extraintestinal amebiasis
+M1313	congenital adrenal hyperplasia
+M1314	neurotrophic keratitis
+M1315	spastic constipation
+M1316	erythrasma
+M1317	bacterial gastroenteritis
+M1318	moderate to severe rheumatoid arthritis
+M1319	multidrug resistant tuberculosis
+M1320	cyclic neutropenia
+M1321	progressive familiar intrahepatic cholestasis (pfic)
+M1322	genital prolapse
+M1323	dysmenorrhea
+M1324	oral candidiasis
+M1325	allergies
+M1326	mixed-cell type lymphoma
+M1327	primary hyperlipidemia
+M1328	north american crotalid envenomation
+M1329	ankylosing spondylitis
+M1330	hereditary angioedema
+M1331	viral induced lung injury
+M1332	life-threatening or uncontrolled bleeding
+M1333	iron overload
+M1334	caloric intake deficit
+M1335	asymptomatic meningococcal infection
+M1336	human papillomavirus (hpv) type 45
+M1337	panic disorder
+M1338	bacterial or protozoal diarrhea
+M1339	muscle spasms
+M1340	community-acquired pneumonia
+M1341	bipolar disorder
+M1342	uncomplicated malignant hypertension
+M1343	hypoactive sexual desire disorder
+M1344	toothache
+M1345	multi-infarct dementia
+M1346	loiasis
+M1347	non-alcoholic fatty liver disease
+M1348	metastatic prostate cancer
+M1349	braf v600e mutation-positive metastatic colorectal cancer
+M1350	giardiasis
+M1351	intermittent asthma
+M1352	von hippel-lindau (vhl) disease
+M1353	prophylaxis of liver transplant rejection
+M1354	high-grade b-cell lymphoma
+M1355	familial chylomicronemia
+M1356	diabetic foot ulcer
+M1357	acute cystitis
+M1358	herpes zoster keratitis
+M1359	warts
+M1360	cataplexy
+M1361	metastatic medullary thyroid cancer
+M1362	metastatic ros1-positive non-small cell lung cancer
+M1363	uncomplicated skin and skin structure infections
+M1364	mucopolysaccharidosis vi
+M1365	blastomycosis
+M1366	chronic kidney disease (ckd)
+M1367	measles
+M1368	peptic ulcers
+M1369	anorexia in aids
+M1370	systemic embolism in patients with non-valvular atrial fibrillation
+M1371	tertiary hypothyroidism
+M1372	magnesium deficiency
+M1373	mild erysipelas
+M1374	giant cell arteritis
+M1375	black widow spider bites
+M1376	necator americanus infection
+M1377	melanoma
+M1378	hyperthermia
+M1379	preoperative sedation
+M1380	endometrial cancer
+M1381	secondary amenorrhea
+M1382	coagulation factor deficiency
+M1383	castrate-resistant prostate cancer
+M1384	bronchial asthma
+M1385	acute iron intoxication
+M1386	thermal burns containing intact dermal elements
+M1387	ocular pain
+M1388	external eye infections
+M1389	anthrax
+M1390	gastrointestinal smooth muscle spasms
+M1391	wounds
+M1392	moraxella catarrhalis
+M1393	thyroid cancer
+M1394	primary biliary cholangitis
+M1395	myopic choroidal neovascularization
+M1396	intraoperative miosis
+M1397	vascular headaches
+M1398	coronavirus disease 2019 (covid-19)
+M1399	bacterial conjunctivitis
+M1400	coronary artery disease
+M1401	severe sepsis
+M1402	scrapes
+M1403	fibrodysplasia ossificans progressiva
+M1404	muckle-wells syndrome (mws)
+M1405	vaginal dryness
+M1406	phototoxicity
+M1407	polyneuropathy of hereditary transthyretin-mediated amyloidosis
+M1408	cryptococcal meningitis
+M1409	hepatocellular carcinoma (hcc)
+M1410	thrombocythemia
+M1411	renal transplant rejection
+M1412	hypogonadism
+M1413	hepatitis (viral d)
+M1414	motion sickness in dogs
+M1415	intermediate uveitis
+M1416	pain
+M1417	benign prostatic hyperplasia
+M1418	urogenital infections
+M1419	dangerous hemorrhages
+M1420	thyroid eye disease
+M1421	peptostreptococcus species
+M1422	postmenopausal breast cancer
+M1423	postoperative venous thromboembolism
+M1424	alpha-mannosidosis
+M1425	growth failure due to prader-willi syndrome (pws)
+M1426	metabolic syndrome
+M1427	chronic pancreatitis
+M1428	bradycardia
+M1429	adhd in children
+M1430	third-degree burns
+M1431	keratosis
+M1432	hpv positive with high grade squamous intraepithelial lesions
+M1433	chronic non-infectious uveitis affecting the posterior segment of the eye
+M1434	anaemia
+M1435	central nervous system (cns) hemangioblastomas
+M1436	cutaneous photoaging
+M1437	osteopetrosis
+M1438	generalized pustular psoriasis (gpp) flares
+M1439	streptococcus pneumoniae type 5
+M1440	megacolon
+M1441	acute massive pulmonary embolism
+M1442	staphylococcus aureus
+M1443	urinary tract infections
+M1444	malignant mesothelioma
+M1445	soft tissue sarcoma
+M1446	suppression of rhesus (rh) isoimmunization
+M1447	extensively-drug resistant tuberculosis
+M1448	lambert-eaton myasthenic syndrome
+M1449	intertrigo
+M1450	dermatosis
+M1451	methotrexate toxicity
+M1452	sleep-onset insomnia
+M1453	oral corticosteroid dependent asthma
+M1454	severe acne
+M1455	conn's syndrome
+M1456	extrapyramidal disorders
+M1457	surface wounds
+M1458	immune thrombocytopenic purpura
+M1459	childhood rhabdomyosarcoma
+M1460	helicobacter pylori
+M1461	pneumococcal bacteremia
+M1462	acute and chronic respiratory tract infections
+M1463	haemophilus influenzae
+M1464	malignant pleural effusion
+M1465	dedifferentiated liposarcoma
+M1466	meniere's disease
+M1467	letterer-siwe disease (histiocytosis x)
+M1468	unresectable or metastatic melanoma with a braf v600e or v600k mutation
+M1469	hypercalcemia
+M1470	diarrhea
+M1471	respiratory distress syndrome (rds)
+M1472	blindness
+M1473	stable angina
+M1474	pompe disease
+M1475	paragonimiasis
+M1476	ascites
+M1477	symptomatic premature ventricular beats
+M1478	refractory chronic myeloid leukemia (cml)
+M1479	psychomotor agitation
+M1480	osteolytic bone metastases of breast cancer
+M1481	esophageal varices
+M1482	neuromuscular blockade
+M1483	moderate acne vulgaris
+M1484	nausea and vomiting associated with surgical and diagnostic procedures
+M1485	mast cell leukemia
+M1486	primary ovarian failure
+M1487	zinc deficiency
+M1488	paget's disease
+M1489	cholangitis
+M1490	rotavirus gastroenteritis
+M1491	musculoskeletal pain
+M1492	human papillomavirus (hpv)
+M1493	paroxysmal supraventricular tachycardia
+M1494	brain tumor malignancy
+M1495	bacterial urethritis
+M1496	corticosteroid-responsive dermatoses
+M1497	coronary occlusion
+M1498	hemophilia a
+M1499	mental capacity decline
+M1500	documented ventricular arrhythmias
+M1501	gaucher's disease type 1
+M1502	central precocious puberty
+M1503	vitamin c deficiency
+M1504	ebola virus infection
+M1505	hyperuricemia in patients with gout
+M1506	relapsed or refractory acute lymphocytic leukemia
+M1507	pituitary pars intermedia dysfunction (equine cushing's disease) in horses
+M1508	t-cell/histiocyte rich large b-cell lymphoma (lbcl)
+M1509	pyelonephritis
+M1510	malignant ascites tumors
+M1511	bacterial infections of root canal
+M1512	post-traumatic stress disorder
+M1513	bacterial otitis
+M1514	alkalinisation of the urine
+M1515	urinary retention
+M1516	rabies infections
+M1517	brain tumors
+M1518	unresectable stage iii non-small cell lung cancer (nsclc)
+M1519	acute manic or mixed episodes associated with bipolar i disorder
+M1520	hormone receptor-positive (her2+) breast cancer
+M1521	motion sickness
+M1522	corneal ulcer
+M1523	liposarcoma
+M1524	hypertension
+M1525	giant cell tumors of the tendon sheath
+M1526	intermittent claudication
+M1527	low cardiac output syndrome
+M1528	pruritus ani
+M1529	abnormal uterine bleeding
+M1530	rubella
+M1531	acute otitis media
+M1532	trigeminal neuralgia
+M1533	her2-overexpressing metastatic gastric or gastroesophageal junction adenocarcinoma
+M1534	non-psychotic anxiety
+M1535	moderate to severe persistent asthma
+M1536	primary myelofibrosis
+M1537	postmenopausal osteoporosis
+M1538	inoperable metastatic female breast cancer
+M1539	wolff-parkinson-white syndrome
+M1540	chronic spasticity
+M1541	hemophilia
+M1542	leprosy
+M1543	t-cell non-hodgkin's lymphoma
+M1544	priapism
+M1545	brucellosis
+M1546	mucopolysaccharidosis
+M1547	thromboembolism
+M1548	bacterial urinary tract infections
+M1549	androgenic alopecia
+M1550	chlamydia pneumoniae
+M1551	advanced bladder cancer
+M1552	ethylene glycol poisoning
+M1553	acute tibia fractures
+M1554	ventricular arrhythmia
+M1555	renal failure
+M1556	lead encephalopathy
+M1557	eye infections
+M1558	vaso-occlusive crisis
+M1559	hirsutism
+M1560	scarlet fever
+M1561	chronic bronchitis
+M1562	postoperative hemorrhage
+M1563	postoperative dental surgery pain
+M1564	streptococcus pneumoniae type 3
+M1565	monilial infections of the skin caused by candida albicans
+M1566	growth factor deficiency
+M1567	secondary headache
+M1568	copper deficiency
+M1569	postoperative paralytic ileus
+M1570	envenomation caused by bites from texas coral snakes (micrurus fulvius tenere)
+M1571	keratitis
+M1572	chemotherapy induced nausea and vomiting
+M1573	neuropathy
+M1574	capecitabine overdose
+M1575	primary hypothyroidism
+M1576	angioedema
+M1577	parenteral nutrition
+M1578	pyoderma gangrenosum
+M1579	pancreatic ductal adenocarcinoma
+M1580	lower backache
+M1581	early-onset severe toxicity
+M1582	anemia of renal insufficiency
+M1583	acute myeloid leukemia (aml)
+M1584	hemodialysis clotting
+M1585	keratoconjunctivitis
+M1586	primary superficial basal cell carcinoma
+M1587	gastrointestinal infections
+M1588	ret fusion-positive non-small cell lung cancer
+M1589	papillary tumors
+M1590	dental caries
+M1591	pruritus
+M1592	supraventricular and ventricular arrhythmias
+M1593	relapsing-remitting multiple sclerosis
+M1594	leiomyosarcoma
+M1595	heparin overdosage
+M1596	heavy metal poisoning
+M1597	complicated skin and skin structure infections
+M1598	severe recalcitrant plaque psoriasis
+M1599	depression associated with alcoholism
+M1600	heart failure post myocardial infarction
+M1601	streptococcus pneumoniae type 11a
+M1602	waldenstrom's macroglobulinemia
+M1603	nausea and vomiting associated with emetogenic chemotherapy
+M1604	vernal keratoconjunctivitis
+M1605	eosinophilic esophagitis
+M1606	growth failure due to turner syndrome (ts)
+M1607	bruises
+M1608	lipodystrophy
+M1609	severe eosinophilic asthma
+M1610	menstrual cycle disorder
+M1611	osteoarthritis of scapulohumerous
+M1612	solar lentigines
+M1613	metastatic egfr t790m mutation positive non-small cell lung cancer
+M1614	graft versus host disease
+M1615	candida infections in patients undergoing hematopoietic stem cell transplantation
+M1616	cardiac arrhythmia
+M1617	idiopathic generalized epilepsy
+M1618	ehlers-danlos syndrome
+M1619	periodontitis
+M1620	dog mast cell tumors
+M1621	bradycardias related to vagal hyper reflectivity
+M1622	chronic lymphocytic thyroiditis
+M1623	unilateral inguinal hernia
+M1624	anal candidiasis
+M1625	chronic rhinosinusitis with nasal polyps (crswnp)
+M1626	skin pigmentation
+M1627	nausea induced by cytotoxic therapy
+M1628	pulmonary embolism
+M1629	active lupus nephritis
+M1630	vulvovaginal candidiasis
+M1631	intrahepatic cholangiocarcinoma
+M1632	aspergillosis
+M1633	follicular b-cell non-hodgkin lymphoma (fl)
+M1634	primary hypogonadism
+M1635	heartburn
+M1636	stable coronary artery disease
+M1637	fatty liver disease
+M1638	aphthous ulcers
+M1639	toxoplasmosis
+M1640	dyspareunia
+M1641	relapsed follicular lymphoma
+M1642	locally advanced or metastatic urothelial carcinoma
+M1643	breast cancer in postmenopausal women with osteoporosis
+M1644	hyperinsulinemia
+M1645	chronic iron overload
+M1646	cytomegalovirus infections
+M1647	cachexia
+M1648	irritability associated with autistic disorder
+M1649	macular edema following retinal vein occlusion
+M1650	subacute lymphocytic thyroiditis
+M1651	heparin-induced thrombocytopenia
+M1652	interdigital tinea pedis
+M1653	recurrence of clostridium difficile infection
+M1654	dupuytren's contracture
+M1655	ret-mutant medullary thyroid cancer
+M1656	quinine-resistant leg cramps
+M1657	perioperative thrombosis
+M1658	bacterial prostatitis
+M1659	hodgkin's lymphoma
+M1660	acute otitis externa
+M1661	clostridium difficile-associated diarrhea
+M1662	toxoplasmosis encephalitis
+M1663	acquired hemophilia
+M1664	follicular cd20-positive b-cell non-hodgkin's lymphoma (nhl)
+M1665	visceral larva migrans
+M1666	atrial flutter
+M1667	medullary thyroid cancer
+M1668	bacterial pneumonia
